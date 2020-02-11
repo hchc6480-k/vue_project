@@ -1,6 +1,6 @@
 <template>
     <div>
-        <input v-model="writer" placeholder="글쓴이"/>
+        <input v-model="writer" placeholder="글쓴이!"/>
         <input v-model="title" placeholder="제목"/>
         <textarea v-model="content" placeholder="내용"/>
         <button @click="index !== undefined ? update() : wrtie()">{{index !== undefined ? '수정' : '작성'}}</button>
