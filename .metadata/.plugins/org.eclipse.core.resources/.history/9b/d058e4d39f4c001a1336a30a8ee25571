@@ -33,7 +33,7 @@ public class RestApiController {
 	
 	@GetMapping(value="/api/test")
 	public @ResponseBody String test() {
-		System.out.println("레스트api테스트!!?");
+		System.out.println("레스트api테스트!!");
 		return "테스트";
 	}
 	
