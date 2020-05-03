@@ -1,0 +1,24 @@
+package interceptor;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.springframework.web.servlet.HandlerInterceptor;
+
+public class InterCeptor implements HandlerInterceptor{
+	
+	public static String access_token = "a";
+	
+	@Override
+	public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler)
+			throws Exception {
+		
+		if(!access_token.equals(request.getHeader("token"))) {
+			throw new IllegalArgumentException("토큰정보가 일치하지 않습니다.");
+		}
+		return true;
+		// TODO Auto-generated method stub
+		//return super.preHandle(request, response, handler);
+	}
+
+}

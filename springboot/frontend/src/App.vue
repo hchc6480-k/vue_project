@@ -1,9 +1,13 @@
 <template>
   <div id="app">
+
     <div id="header">
         <MainHeader/>
     </div>
-    <router-view/>
+
+    <b-container cols="8">
+      <router-view />
+    </b-container>
     <!--
     <div id="footer">
       <MainFooter/>
@@ -27,5 +31,6 @@ export default {
 </script>
 
 <style>
-
+  .container{margin-top:5%;}
+  html,body{height: 100%;}
 </style>

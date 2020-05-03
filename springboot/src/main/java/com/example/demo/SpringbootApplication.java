@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 
-@SpringBootApplication(scanBasePackages = {"services"})
+@SpringBootApplication
 public class SpringbootApplication {
 
 	public static void main(String[] args) {

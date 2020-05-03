@@ -8,6 +8,7 @@ import BootstrapVue from 'bootStrap-vue'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 import axios from 'axios'
+import { store } from './store/store.js'
 
 
 Vue.prototype.$http = axios
@@ -18,6 +19,7 @@ Vue.use(BootstrapVue)
 new Vue({
   el: '#app',
   router,
+  store,
   components: { App },
   template: '<App/>',
   render: h=> h(App)
