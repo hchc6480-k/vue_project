@@ -2160,3 +2160,841 @@ org.apache.maven.project.ProjectBuildingException: Some problems were encountere
 2020-05-03 13:48:36,469 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
 2020-05-03 13:48:36,471 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-05-03 13:48:36,471 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-03 13:57:22,822 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 13:57:22,822 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 13:57:22,824 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 13:57:22,825 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 13:57:22,825 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-03 13:57:46,118 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 13:57:46,119 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 13:57:46,120 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 13:57:46,121 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 13:57:46,121 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-03 14:06:52,148 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 14:06:52,148 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 14:06:52,150 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 14:06:52,151 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 14:06:52,151 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-04 09:56:18,847 [Worker-425: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 09:56:18,848 [Worker-425: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-04 09:56:18,848 [Worker-425: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-04 09:56:18,853 [Worker-425: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 09:56:18,853 [Worker-425: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-04 09:58:50,658 [Worker-625: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 09:58:50,658 [Worker-625: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-04 09:58:50,658 [Worker-625: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-04 09:58:50,660 [Worker-625: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 09:58:50,660 [Worker-625: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-04 10:07:29,812 [Worker-767: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 10:07:29,812 [Worker-767: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-04 10:07:29,813 [Worker-767: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-04 10:07:29,814 [Worker-767: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 10:07:29,814 [Worker-767: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-04 10:08:28,014 [Worker-919: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 10:08:28,014 [Worker-919: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-04 10:08:28,014 [Worker-919: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-04 10:08:28,015 [Worker-919: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 10:08:28,016 [Worker-919: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-04 10:12:22,467 [Worker-12: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-04 10:42:56,122 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 10:42:56,133 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-04 10:42:56,144 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-04 10:42:56,148 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 10:42:56,148 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-04 10:42:58,548 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 10:42:58,550 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-04 10:42:58,552 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-04 10:42:58,553 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 10:42:58,554 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-04 10:43:03,322 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 10:43:03,323 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-04 10:43:03,324 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-04 10:43:03,326 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 10:43:03,327 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-04 10:43:20,499 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 10:43:20,500 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-04 10:43:20,502 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-04 10:43:20,505 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 10:43:20,505 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-04 10:58:04,613 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 10:58:04,614 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-04 10:58:04,615 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-04 10:58:04,618 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 10:58:04,618 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-04 11:01:37,628 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 11:01:37,629 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-04 11:01:37,630 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-04 11:01:37,633 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 11:01:37,634 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-04 11:03:39,976 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 11:03:39,977 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-04 11:03:39,979 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-04 11:03:39,981 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 11:03:39,981 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-04 11:03:42,116 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 11:03:42,117 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-04 11:03:42,118 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-04 11:03:42,121 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-04 11:03:42,121 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 16:55:14,385 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:55:14,387 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:55:14,388 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 16:55:14,391 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:55:14,391 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:02:46,089 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:02:46,090 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:02:46,091 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:02:46,093 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:02:46,093 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:02:53,411 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:02:53,412 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:02:53,415 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:02:53,420 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:02:53,420 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:03:08,895 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:03:08,896 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:03:08,897 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:03:08,899 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:03:08,899 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:03:27,463 [Worker-80: Launching springboot - SpringbootApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:03:27,464 [Worker-80: Launching springboot - SpringbootApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:03:27,465 [Worker-80: Launching springboot - SpringbootApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:03:27,467 [Worker-80: Launching springboot - SpringbootApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:03:27,467 [Worker-80: Launching springboot - SpringbootApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:04:28,525 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:04:28,526 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:04:28,527 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:04:28,529 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:04:28,530 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:04:29,555 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:04:29,556 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:04:29,559 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:04:29,562 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:04:29,562 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:04:40,371 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:04:40,372 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:04:40,373 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:04:40,377 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:04:40,377 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:06:32,839 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:06:32,844 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:06:32,845 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:06:32,847 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:06:32,848 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:08:07,659 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:08:07,660 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:08:07,662 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:08:07,663 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:08:07,663 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:08:42,022 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:08:42,023 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:08:42,024 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:08:42,026 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:08:42,026 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:16:56,082 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:16:56,084 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:16:56,086 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:16:56,088 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:16:56,088 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:18:05,018 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:18:05,019 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:18:05,021 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:18:05,023 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:18:05,023 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:19:44,085 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:19:44,086 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:19:44,087 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:19:44,088 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:19:44,088 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:20:33,117 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:20:33,118 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:20:33,119 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:20:33,121 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:20:33,121 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:21:08,569 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:21:08,570 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:21:08,571 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:21:08,573 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:21:08,574 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:21:15,374 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:21:15,375 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:21:15,376 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:21:15,378 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:21:15,378 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:22:35,021 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:22:35,022 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:22:35,024 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:22:35,025 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:22:35,025 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:22:36,047 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:22:36,048 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:22:36,049 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:22:36,051 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:22:36,051 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:31:38,039 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:31:38,040 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:31:38,041 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:31:38,043 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:31:38,043 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:31:39,066 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:31:39,067 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:31:39,068 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:31:39,069 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:31:39,069 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:35:37,689 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:35:37,690 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:35:37,692 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:35:37,696 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:35:37,696 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:36:35,627 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:36:35,628 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:36:35,629 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:36:35,630 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:36:35,630 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:36:39,070 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:36:39,071 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:36:39,072 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:36:39,073 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:36:39,074 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:37:55,834 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:37:55,835 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:37:55,836 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:37:55,837 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:37:55,837 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:37:56,860 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:37:56,861 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:37:56,862 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:37:56,864 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:37:56,864 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:39:29,343 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:39:29,344 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:39:29,346 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:39:29,348 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:39:29,348 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:39:51,002 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:39:51,003 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:39:51,004 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:39:51,005 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:39:51,005 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:40:17,731 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:40:17,732 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:40:17,733 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:40:17,734 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:40:17,734 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:40:19,764 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:40:19,765 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:40:19,765 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:40:19,766 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:40:19,766 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:41:09,716 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:41:09,716 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:41:09,717 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:41:09,719 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:41:09,719 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:41:11,755 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:41:11,756 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:41:11,757 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:41:11,758 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:41:11,758 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:41:19,461 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:41:19,462 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:41:19,463 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:41:19,464 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:41:19,464 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:45:22,282 [Worker-105: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springboot:0.0.1-SNAPSHOT @ /Users/kang/vue_project/springboot/pom.xml.
+2020-05-05 17:45:22,768 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:45:22,770 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:45:22,770 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:45:22,772 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:45:22,773 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:45:26,441 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:45:26,446 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:45:26,461 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:45:26,463 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:45:26,464 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:46:05,162 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:46:05,163 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:46:05,164 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:46:05,166 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:46:05,166 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:46:06,192 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:46:06,193 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:46:06,194 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:46:06,195 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:46:06,195 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:46:12,490 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:46:12,490 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:46:12,493 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:46:12,495 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:46:12,495 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:47:02,514 [Worker-108: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springboot:0.0.1-SNAPSHOT @ /Users/kang/vue_project/springboot/pom.xml.
+2020-05-05 17:47:03,041 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:47:03,044 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:47:03,045 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:47:03,047 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:47:03,047 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:47:06,580 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:47:06,581 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:47:06,592 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:47:06,594 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:47:06,594 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:47:07,718 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:47:07,718 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:47:07,718 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:47:07,720 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:47:07,720 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:47:08,749 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:47:08,751 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:47:08,753 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:47:08,756 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:47:08,756 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:53:24,390 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:53:24,391 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:53:24,392 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:53:24,394 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:53:24,394 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:53:34,745 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:53:34,745 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:53:34,747 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:53:34,748 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:53:34,748 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:54:36,239 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:54:36,240 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:54:36,241 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:54:36,243 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:54:36,243 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:54:41,466 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:54:41,467 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:54:41,469 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:54:41,471 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:54:41,471 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:58:43,677 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:58:43,677 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:58:43,679 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:58:43,680 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:58:43,680 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 17:58:47,965 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:58:47,966 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:58:47,967 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 17:58:47,968 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:58:47,968 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 18:15:08,302 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:15:08,305 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:15:08,307 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 18:15:08,309 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:15:08,309 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 18:19:41,877 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:19:41,878 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:19:41,880 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 18:19:41,882 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:19:41,882 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 18:19:53,616 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:19:53,617 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:19:53,618 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 18:19:53,620 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:19:53,620 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 18:20:10,788 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:20:10,789 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:20:10,790 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 18:20:10,792 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:20:10,792 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-05 18:20:13,220 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:20:13,222 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:20:13,224 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-05 18:20:13,225 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:20:13,225 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 15:42:08,018 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:42:08,020 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 15:42:08,021 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 15:42:08,023 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:42:08,024 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 15:42:25,929 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:42:25,930 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 15:42:25,931 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 15:42:25,932 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:42:25,932 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 15:42:34,568 [Worker-237: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:42:34,569 [Worker-237: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 15:42:34,570 [Worker-237: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 15:42:34,572 [Worker-237: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:42:34,572 [Worker-237: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 15:42:42,730 [Worker-237: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:42:42,731 [Worker-237: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 15:42:42,732 [Worker-237: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 15:42:42,734 [Worker-237: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:42:42,734 [Worker-237: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 15:42:43,752 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:42:43,753 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 15:42:43,754 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 15:42:43,755 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:42:43,755 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 15:53:46,729 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:53:46,730 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 15:53:46,731 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 15:53:46,732 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:53:46,732 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 15:53:51,014 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:53:51,015 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 15:53:51,016 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 15:53:51,017 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:53:51,017 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 15:53:58,267 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:53:58,267 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 15:53:58,268 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 15:53:58,270 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:53:58,271 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 15:54:02,730 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:54:02,731 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 15:54:02,733 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 15:54:02,734 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:54:02,734 [Worker-240: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 15:55:01,463 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:55:01,463 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 15:55:01,464 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 15:55:01,465 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:55:01,465 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 15:55:05,232 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:55:05,233 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 15:55:05,234 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 15:55:05,235 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:55:05,235 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 15:55:19,800 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:55:19,801 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 15:55:19,802 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 15:55:19,803 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:55:19,803 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 15:55:39,843 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:55:39,844 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 15:55:39,845 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 15:55:39,846 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:55:39,846 [Worker-238: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 15:55:50,992 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:55:50,996 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-06 15:55:50,996 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 15:55:51,003 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 15:55:51,003 [Worker-241: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 16:02:21,316 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:02:21,317 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 16:02:21,318 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 16:02:21,319 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:02:21,319 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 16:02:47,748 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:02:47,749 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 16:02:47,750 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 16:02:47,752 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:02:47,752 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 16:02:48,777 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:02:48,778 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 16:02:48,779 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 16:02:48,781 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:02:48,781 [Worker-245: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 16:02:54,981 [Worker-243: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:02:54,981 [Worker-243: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-06 16:02:54,981 [Worker-243: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 16:02:54,983 [Worker-243: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:02:54,983 [Worker-243: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 16:03:26,785 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:03:26,785 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-06 16:03:26,786 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 16:03:26,787 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:03:26,787 [Worker-235: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 16:05:17,479 [Worker-246: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:05:17,480 [Worker-246: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 16:05:17,481 [Worker-246: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 16:05:17,482 [Worker-246: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:05:17,482 [Worker-246: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 16:05:18,507 [Worker-243: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:05:18,508 [Worker-243: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 16:05:18,509 [Worker-243: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 16:05:18,510 [Worker-243: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:05:18,510 [Worker-243: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 16:31:47,232 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:31:47,233 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-06 16:31:47,234 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 16:31:47,235 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:31:47,235 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 16:41:13,780 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:41:13,781 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 16:41:13,783 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 16:41:13,784 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:41:13,784 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-06 16:41:22,054 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:41:22,055 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 16:41:22,056 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-06 16:41:22,058 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-06 16:41:22,058 [Worker-257: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:34:08,484 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:34:08,488 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:34:08,490 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:34:08,492 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:34:08,492 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:34:09,615 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:34:09,616 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:34:09,617 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:34:09,620 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:34:09,620 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:35:47,717 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:35:47,718 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:35:47,719 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:35:47,721 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:35:47,721 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:36:21,600 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:36:21,601 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:36:21,602 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:36:21,603 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:36:21,603 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:36:23,635 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:36:23,635 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:36:23,636 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:36:23,638 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:36:23,638 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:36:58,806 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:36:58,807 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:36:58,807 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:36:58,808 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:36:58,808 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:37:00,889 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:37:00,890 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:37:00,891 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:37:00,892 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:37:00,892 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:37:04,334 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:37:04,335 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:37:04,336 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:37:04,337 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:37:04,337 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:38:04,861 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:38:04,861 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:38:04,862 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:38:04,863 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:38:04,863 [Worker-291: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:38:08,813 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:38:08,814 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:38:08,815 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:38:08,817 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:38:08,817 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:38:14,012 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:38:14,012 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:38:14,013 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:38:14,014 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:38:14,014 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:38:20,922 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:38:20,923 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:38:20,924 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:38:20,925 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:38:20,925 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:38:23,761 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:38:23,761 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:38:23,762 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:38:23,763 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:38:23,764 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:38:27,877 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:38:27,878 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:38:27,879 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:38:27,880 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:38:27,880 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:38:29,907 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:38:29,907 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:38:29,908 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:38:29,910 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:38:29,910 [Worker-293: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:39:31,460 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:39:31,461 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:39:31,462 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:39:31,463 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:39:31,463 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:39:51,332 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:39:51,333 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:39:51,334 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:39:51,335 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:39:51,335 [Worker-294: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:40:08,267 [Worker-292: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:40:08,267 [Worker-292: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:40:08,268 [Worker-292: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:40:08,269 [Worker-292: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:40:08,269 [Worker-292: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:41:30,484 [Worker-292: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:41:30,485 [Worker-292: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:41:30,485 [Worker-292: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:41:30,487 [Worker-292: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:41:30,487 [Worker-292: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 09:41:55,187 [Worker-299: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:41:55,187 [Worker-299: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 09:41:55,188 [Worker-299: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 09:41:55,189 [Worker-299: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 09:41:55,189 [Worker-299: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:24:45,792 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:24:45,793 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:24:45,794 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:24:45,795 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:24:45,795 [Worker-308: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:24:47,931 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:24:47,932 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:24:47,933 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:24:47,935 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:24:47,935 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:24:56,669 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:24:56,670 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:24:56,671 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:24:56,671 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:24:56,671 [Worker-309: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:29:08,116 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:29:08,117 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:29:08,118 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:29:08,119 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:29:08,119 [Worker-310: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:29:13,128 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:29:13,128 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:29:13,129 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:29:13,130 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:29:13,130 [Worker-312: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:31:50,403 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:31:50,404 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:31:50,405 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:31:50,406 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:31:50,406 [Worker-311: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:33:46,558 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:33:46,558 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:33:46,559 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:33:46,561 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:33:46,561 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:33:49,809 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:33:49,810 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:33:49,811 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:33:49,812 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:33:49,812 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:34:13,671 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:34:13,671 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:34:13,672 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:34:13,673 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:34:13,673 [Worker-319: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:34:15,701 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:34:15,701 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:34:15,702 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:34:15,704 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:34:15,704 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:34:28,318 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:34:28,319 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:34:28,320 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:34:28,321 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:34:28,321 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:34:30,376 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:34:30,377 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:34:30,378 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:34:30,379 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:34:30,379 [Worker-318: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:34:41,978 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:34:41,978 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:34:41,979 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:34:41,980 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:34:41,980 [Worker-313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:34:45,591 [Worker-320: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:34:45,591 [Worker-320: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:34:45,592 [Worker-320: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:34:45,594 [Worker-320: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:34:45,594 [Worker-320: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:36:59,514 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:36:59,515 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:36:59,516 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:36:59,517 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:36:59,517 [Worker-321: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:37:01,542 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:37:01,543 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:37:01,544 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:37:01,545 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:37:01,545 [Worker-315: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:37:19,171 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:37:19,171 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:37:19,172 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:37:19,173 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:37:19,173 [Worker-317: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:47:27,973 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:47:27,974 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:47:27,975 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:47:27,977 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:47:27,977 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:47:44,017 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:47:44,018 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:47:44,019 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:47:44,021 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:47:44,021 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:47:48,774 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:47:48,774 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:47:48,775 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:47:48,777 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:47:48,777 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:47:51,890 [Worker-327: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:47:51,891 [Worker-327: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:47:51,892 [Worker-327: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:47:51,893 [Worker-327: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:47:51,893 [Worker-327: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:48:12,514 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:48:12,515 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:48:12,516 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:48:12,517 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:48:12,517 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:48:14,545 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:48:14,546 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:48:14,547 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:48:14,548 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:48:14,548 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:48:22,165 [Worker-325: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:48:22,166 [Worker-325: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:48:22,167 [Worker-325: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:48:22,168 [Worker-325: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:48:22,168 [Worker-325: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:48:28,442 [Worker-327: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:48:28,443 [Worker-327: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:48:28,444 [Worker-327: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:48:28,445 [Worker-327: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:48:28,445 [Worker-327: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:48:32,875 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:48:32,876 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:48:32,877 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:48:32,878 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:48:32,878 [Worker-323: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:49:07,795 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:49:07,796 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:49:07,797 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:49:07,798 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:49:07,798 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:49:09,828 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:49:09,829 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:49:09,830 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:49:09,831 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:49:09,831 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:49:31,046 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:49:31,047 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:49:31,048 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:49:31,049 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:49:31,049 [Worker-328: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 10:49:46,424 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:49:46,424 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 10:49:46,426 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 10:49:46,427 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 10:49:46,427 [Worker-326: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 11:15:50,794 [Worker-337: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 11:15:50,795 [Worker-337: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 11:15:50,796 [Worker-337: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 11:15:50,797 [Worker-337: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 11:15:50,797 [Worker-337: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 11:16:41,194 [Worker-336: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 11:16:41,195 [Worker-336: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 11:16:41,196 [Worker-336: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 11:16:41,197 [Worker-336: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 11:16:41,197 [Worker-336: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 11:17:41,642 [Worker-337: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 11:17:41,642 [Worker-337: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 11:17:41,644 [Worker-337: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 11:17:41,645 [Worker-337: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 11:17:41,645 [Worker-337: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 11:17:44,302 [Worker-338: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 11:17:44,303 [Worker-338: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 11:17:44,304 [Worker-338: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 11:17:44,305 [Worker-338: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 11:17:44,305 [Worker-338: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 11:17:51,769 [Worker-334: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 11:17:51,769 [Worker-334: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 11:17:51,770 [Worker-334: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 11:17:51,771 [Worker-334: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 11:17:51,772 [Worker-334: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 11:17:53,799 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 11:17:53,799 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 11:17:53,800 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 11:17:53,801 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 11:17:53,802 [Worker-333: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 17:18:45,317 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 17:18:45,318 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 17:18:45,320 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 17:18:45,321 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 17:18:45,321 [Worker-386: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 17:30:53,013 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 17:30:53,014 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 17:30:53,016 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 17:30:53,017 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 17:30:53,017 [Worker-389: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-07 17:56:36,318 [Worker-403: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 17:56:36,319 [Worker-403: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-07 17:56:36,321 [Worker-403: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-07 17:56:36,323 [Worker-403: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-07 17:56:36,324 [Worker-403: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-08 09:07:19,249 [Worker-613: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 09:07:19,250 [Worker-613: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 09:07:19,253 [Worker-613: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-08 09:07:19,257 [Worker-613: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 09:07:19,257 [Worker-613: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-08 10:04:24,370 [Worker-934: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:04:24,370 [Worker-934: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 10:04:24,371 [Worker-934: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-08 10:04:24,373 [Worker-934: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:04:24,373 [Worker-934: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-08 10:39:50,097 [Worker-1211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:39:50,098 [Worker-1211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 10:39:50,099 [Worker-1211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-08 10:39:50,101 [Worker-1211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:39:50,101 [Worker-1211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-08 10:46:31,791 [Worker-1345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:46:31,792 [Worker-1345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 10:46:31,793 [Worker-1345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-08 10:46:31,794 [Worker-1345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:46:31,794 [Worker-1345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-08 10:46:37,606 [Worker-1455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:46:37,608 [Worker-1455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 10:46:37,610 [Worker-1455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-08 10:46:37,615 [Worker-1455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:46:37,615 [Worker-1455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-08 10:48:18,812 [Worker-1557: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:48:18,813 [Worker-1557: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 10:48:18,814 [Worker-1557: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-08 10:48:18,816 [Worker-1557: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:48:18,816 [Worker-1557: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-08 10:48:21,252 [Worker-1655: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:48:21,253 [Worker-1655: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 10:48:21,254 [Worker-1655: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-08 10:48:21,255 [Worker-1655: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:48:21,255 [Worker-1655: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-08 10:54:49,919 [Worker-1751: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:54:49,920 [Worker-1751: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 10:54:49,921 [Worker-1751: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-08 10:54:49,922 [Worker-1751: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:54:49,922 [Worker-1751: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-08 10:55:22,685 [Worker-1840: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:55:22,686 [Worker-1840: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 10:55:22,688 [Worker-1840: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-08 10:55:22,689 [Worker-1840: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:55:22,689 [Worker-1840: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-08 10:55:24,054 [Worker-1870: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:55:24,055 [Worker-1870: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 10:55:24,056 [Worker-1870: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-08 10:55:24,057 [Worker-1870: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:55:24,058 [Worker-1870: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-08 10:55:36,523 [Worker-2006: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:55:36,524 [Worker-2006: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 10:55:36,525 [Worker-2006: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-08 10:55:36,526 [Worker-2006: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:55:36,526 [Worker-2006: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-08 10:57:32,215 [Worker-2195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:57:32,216 [Worker-2195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 10:57:32,217 [Worker-2195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-08 10:57:32,220 [Worker-2195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 10:57:32,220 [Worker-2195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-08 11:04:25,213 [Worker-2381: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 11:04:25,213 [Worker-2381: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 11:04:25,215 [Worker-2381: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-08 11:04:25,216 [Worker-2381: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 11:04:25,216 [Worker-2381: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-08 11:05:20,165 [Worker-2522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 11:05:20,166 [Worker-2522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-08 11:05:20,167 [Worker-2522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-08 11:05:20,169 [Worker-2522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-08 11:05:20,169 [Worker-2522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-10 15:44:17,568 [Worker-3458: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-10 15:44:17,570 [Worker-3458: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-10 15:44:17,571 [Worker-3458: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-10 15:44:17,573 [Worker-3458: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-10 15:44:17,573 [Worker-3458: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-05-10 15:44:19,173 [Worker-3526: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-10 15:44:19,173 [Worker-3526: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-10 15:44:19,174 [Worker-3526: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-10 15:44:19,176 [Worker-3526: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-10 15:44:19,176 [Worker-3526: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources

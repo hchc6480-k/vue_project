@@ -9,7 +9,8 @@ import org.apache.ibatis.annotations.Param;
 
 public interface BoardDao {
 
-	public List<LinkedHashMap<String,Object>> SelectBoard();
+	public int totalBoardCount();
+	public List<LinkedHashMap<String,Object>> SelectBoard(int page_idx);
 	
 	public void InsertBoard(Map<String,Object> map);
 }

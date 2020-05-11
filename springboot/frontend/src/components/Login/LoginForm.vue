@@ -77,7 +77,7 @@ export default {
                     console.log(res.data);             
                     this.$store.commit('loginToken',res.data);
                     alert('로그인 성공');
-                    this.$router.push({path:'/'});
+                    this.$router.push({path:'/read/1'});
                 }else{
                     alert('아이디 비번을 확인하세요.');
                 }

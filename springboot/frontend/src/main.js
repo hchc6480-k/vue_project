@@ -10,10 +10,13 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 import axios from 'axios'
 import { store } from './store/store.js'
 
+axios.defaults.headers.common['access_token'] = 'a'
 
 Vue.prototype.$http = axios
 Vue.config.productionTip = false
 Vue.use(BootstrapVue)
+var Paginate = require('vuejs-paginate')
+Vue.component('paginate', Paginate)
 
 /* eslint-disable no-new */
 new Vue({

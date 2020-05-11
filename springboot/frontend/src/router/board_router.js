@@ -14,12 +14,12 @@ const login_chk = (to,state,next) => {
 export default[
 
     {
-      path: '/',
+      path: '/read/:page',
       name: 'Read',
       component: Read
     },
     {
-      path: '/create/:contentId?',
+      path: '/create',
       name: 'Create',
       component: Create,
       beforeEnter:login_chk

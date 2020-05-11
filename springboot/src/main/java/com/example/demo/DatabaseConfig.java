@@ -23,13 +23,8 @@ import interceptor.WebInterCeptor;
 @Configuration
 @MapperScan(basePackages="com.example.demo.dao")
 @EnableTransactionManagement
-@EnableWebMvc
-
-public class DatabaseConfig implements WebMvcConfigurer{
-	
-	WebInterCeptor InterCeptor;
-	
-	
+public class DatabaseConfig{
+			
 	@Bean
     public SqlSessionFactory sqlSessionFactory(DataSource dataSource) throws Exception {
         final SqlSessionFactoryBean sessionFactory = new SqlSessionFactoryBean();
@@ -45,13 +40,5 @@ public class DatabaseConfig implements WebMvcConfigurer{
       return sqlSessionTemplate;
     }
     
-    /*
-    @Override
-    public void addInterceptors(InterceptorRegistry registry) {
-    	System.out.println("22");
-		registry.addInterceptor(InterCeptor)
-		.addPathPatterns("/*");
-    	//WebMvcConfigurer.super.addInterceptors(registry);
-    }
-    */
+   
 }

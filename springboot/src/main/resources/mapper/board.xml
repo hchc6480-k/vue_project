@@ -5,9 +5,14 @@
   
 <mapper namespace="com.example.demo.dao.BoardDao">
  
-    <select id="SelectBoard" resultType="java.util.LinkedHashMap">
-        SELECT board_no,board_nm,board_detail,user_id,reg_dtime
+ 	<select id="totalBoardCount" resultType="int">
+ 		SELECT COUNT(*) FROM BOARD
+ 	</select>
+ 	
+    <select id="SelectBoard" resultType="java.util.LinkedHashMap" parameterType="int">
+        SELECT board_no,board_nm,board_detail,user_id,date_format(reg_dtime, '%Y-%m-%d') as date        		
         FROM BOARD
+        LIMIT #{page_idx},2        	
     </select>
     
     <insert id="InsertBoard">

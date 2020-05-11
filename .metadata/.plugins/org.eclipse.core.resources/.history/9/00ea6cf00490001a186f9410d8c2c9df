@@ -1,0 +1,19 @@
+package com.example.demo.controller;
+
+import java.math.BigDecimal;
+import java.math.BigInteger;
+
+public class test {
+	public static void main(String[] args) {
+		int x = 121;
+		
+		String s = String.valueOf(x);
+		char ss = 0;
+		
+		for(int i=s.length(); i==0; i--) {
+			ss += s.charAt(i);
+		}
+		System.out.println("결과:"+ss);
+	}
+	
+}

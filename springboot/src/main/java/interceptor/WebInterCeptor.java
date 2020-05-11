@@ -6,33 +6,37 @@ import javax.servlet.http.HttpServletResponse;
 import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;
+import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 
+import lombok.extern.slf4j.Slf4j;
 
-
-@Component
+//@Component
+@Slf4j
 public class WebInterCeptor implements HandlerInterceptor{
+
 	
-	public static String access_token = "a";
+	public static String access_token = "a";  
 	
 	@Override
 	public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler)
 			throws Exception {
-		System.out.println("시작:"+request.getHeader("token"));
-		if(!access_token.equals(request.getHeader("token"))) {
-			throw new IllegalArgumentException("토큰정보가 일치하지 않습니다.");
-		}
+		System.out.println("preHandle");
 		return true;
-		// TODO Auto-generated method stub
-		//return super.preHandle(request, response, handler);
 	}
-	
+		
 	@Override
 	public void postHandle(HttpServletRequest request, HttpServletResponse response, Object handler,
 			ModelAndView modelAndView) throws Exception {
 		// TODO Auto-generated method stub
-		System.out.println("되냐?");
-		HandlerInterceptor.super.postHandle(request, response, handler, modelAndView);
+		System.out.println("postHandle");
+		//HandlerInterceptor.super.postHandle(request, response, handler, modelAndView);		
 	}
-	
+
+	@Override
+	public void afterCompletion(HttpServletRequest request, HttpServletResponse response, Object handler, Exception ex)
+			throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
 
 }

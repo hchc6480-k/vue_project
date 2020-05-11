@@ -4,6 +4,8 @@ import java.security.Key;
 import java.util.HashMap;
 import java.util.Map;
 
+import javax.servlet.http.HttpServletRequest;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.web.bind.annotation.CrossOrigin;
@@ -27,7 +29,7 @@ public class Login_RestApiController {
 	@Autowired
 	LoginService LoginRepository;
 
-	@GetMapping(value="/usr/registMbr")
+	@PostMapping(value="/usr/registMbr")
 	public Map<String,Object>registMbr(
 			@RequestParam(value="user_id") String user_id,
 			@RequestParam(value="pwd") String pwd,
@@ -55,6 +57,8 @@ public class Login_RestApiController {
 			
 			try {
 				LoginRepository.RegistUsr(data);
+				result.put("state", "200");
+				result.put("message", "success");
 			} catch (Exception e) {
 				result.put("state", "500");
 				result.put("message", "fail");
@@ -62,7 +66,7 @@ public class Login_RestApiController {
 									
 		}else {
 			result.put("state", "500");
-			result.put("message", "fail");
+			result.put("message", "필수값이 누락 되었습니다.");
 		}
 		
 		return result;		
@@ -72,8 +76,8 @@ public class Login_RestApiController {
 	@PostMapping(value="/usr/LoginChk")
 	public Map<String,Object>LoginChk(
 			@RequestParam(value="user_id") String user_id,
-			@RequestParam(value="pwd") String pwd){
-		
+			@RequestParam(value="pwd") String pwd , HttpServletRequest req){
+		System.out.println("토큰:"+req.getHeader("access_token"));
 		Map<String,Object> result = new HashMap<String, Object>();
 							
 		if(user_id != null && pwd != null) {
@@ -94,6 +98,9 @@ public class Login_RestApiController {
 				result.put("message", "fail");
 			}
 			
+		}else {
+			result.put("state", "500");
+			result.put("message", "필수 값이 누락 되었습니다.");
 		}
 		
 		System.out.println(result);
@@ -128,7 +135,7 @@ public class Login_RestApiController {
 			
 		}else {
 			result.put("state", "500");
-			result.put("message", "fail");
+			result.put("message", "필수 값이 누락 되었습니다.");
 		}
 		
 		System.out.println(result);

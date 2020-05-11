@@ -5,7 +5,7 @@
   
 <mapper namespace="com.example.demo.dao.LoginDao">
 
-	<insert id="">
+	<insert id="RegistUsr" parameterType="map">
 	insert into mb_mbr_mgmt(user_id,pwd,mbr_nm,mbr_token,reg_dtime) values(#{user_id},#{pwd},#{mbr_nm},#{mbr_token},now())
 	</insert>
  

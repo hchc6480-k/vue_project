@@ -46,7 +46,7 @@
                     label-align-sm="right"
                     label-for="nested-state"
                 >
-                    <b-form-input id="nested-state" v-model="writer" readonly></b-form-input>
+                    <b-form-input id="nested-state" v-model="user_id" readonly></b-form-input>
                 </b-form-group>
             </b-form-group>
             <b-button variant="info" @click="write()">작성</b-button>
@@ -56,6 +56,8 @@
 <script>
 //import data from '@/data'
 import axios from 'axios'
+import {mapState} from 'vuex'
+
 export default {
     name: 'Create',
     data() {
@@ -68,15 +70,12 @@ export default {
             content: index !== undefined ? data[index].content : ""
         }
     },
-    created() {
-        this.writer = '1234';
+    computed: {
+        ...mapState(['user_id'])
     },
     methods: {
-        write() {
-            this.data.writer = this.writer
-            this.data.title = this.title
-            this.data.content = this.content
-            
+        write() {                  
+            this.writer = this.user_id;      
             axios.post('http://localhost:5000/api/board/cdboard',null,{
                params:{
                 board_title:this.title,
@@ -87,8 +86,11 @@ export default {
             }, 
             {                                
                 headers: { 'Content-Type': 'application/json' }
-            }).then((Resopnse) => {
-                console.log(Response)
+            }).then((Response) => {
+                if(Response.data.state == '200'){
+                    alert('등록되었습니다.');
+                    this.$router.push({path:'/read/1'});
+                }
             }).catch((ex)=>{
               console.log(ex);
 

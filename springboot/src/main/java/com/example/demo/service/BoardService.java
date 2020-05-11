@@ -16,8 +16,11 @@ public class BoardService {
 	@Autowired
 	BoardDao BoardDao;
 	
-	public List<LinkedHashMap<String, Object>> SelectBoard(){
-		return BoardDao.SelectBoard();
+	public int totalBoardCount() {
+		return BoardDao.totalBoardCount();
+	}
+	public List<LinkedHashMap<String, Object>> SelectBoard(int page_idx){
+		return BoardDao.SelectBoard(page_idx);
 	};
 	
 	public void InsertBoard(Map<String, Object> map) {

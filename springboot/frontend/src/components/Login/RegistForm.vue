@@ -46,7 +46,7 @@
                 </b-form-checkbox-group>
             </b-form-group>
 
-            <b-button type="submit" id="regist_btn" @click="Regist" variant="primary">가입</b-button>
+            <b-button id="regist_btn" @click="Regist" variant="primary">가입</b-button>
             <!--<b-button type="reset" variant="danger">Reset</b-button>-->
             </b-form>
             <!--
@@ -79,13 +79,16 @@ export default {
         }
     },
     methods: {
-        Regist(){
-            if(this.user_id == '' || this.pwd == '' || this.mbr_nm =='' || this.chekbox.length == 0){
+        Regist(){            
+            if(this.user_id == '' || this.pwd == '' || this.mbr_nm ==''){
                 alert('회원정보를 모두 입력해주세요.');
                 return false;
             }
-
-            axios.post('http://localhost:5000/usr/RegistMbr',null,{
+            if(this.checkbox==''){
+                alert('가입동의가 필요합니다.');
+                return false;
+            }
+            axios.post('http://localhost:5000/usr/registMbr',null,{
                params:{                
                 user_id:this.user_id,
                 pwd:this.pwd,
@@ -101,7 +104,8 @@ export default {
                     alert('회원가입 완료!');
                     this.$router.push({path:'/'});
                 }else{
-                    alert('');
+                    console.log(res.data);
+                    alert('에러발생');
                 }
                 //console.log(res.data)
             }).catch((ex)=>{

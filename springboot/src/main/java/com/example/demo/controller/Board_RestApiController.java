@@ -8,6 +8,8 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
@@ -34,18 +36,25 @@ public class Board_RestApiController {
 	BoardService BoardRepository;
 	
 	@GetMapping(value="/api/test")
-	public @ResponseBody String test() {
-		System.out.println("레스트api테스트!!?");
+	public @ResponseBody String test(HttpServletRequest req) {
+		System.out.println("토근값:"+req.getHeader("token"));
 		return "테스트";
 	}
 	
 	
 	@GetMapping(value="/api/board")
-	public @ResponseBody Map<String,Object> SelectBoard() {
-		//JSONObject json = new JSONObject();
+	public @ResponseBody Map<String,Object> SelectBoard(@RequestParam(value="page",required = false) String page) {
+		//JSONObject json = new JSONObject();	
 		Map<String,Object> result = new HashMap<String,Object>();
+		int page_idx = 0;
+		result.put("now_page",page);
+		if(page.equals("1")) page = "0";
+		if(page != null && !page.equals("0")) {			
+			page_idx = (Integer.parseInt(page)*2) -2;
+		}
+		List<LinkedHashMap<String,Object>> list =  BoardRepository.SelectBoard(page_idx);
 		
-		List<LinkedHashMap<String,Object>> list =  BoardRepository.SelectBoard();
+		result.put("total_count", BoardRepository.totalBoardCount());		
 		result.put("list", list);
 		return result;
 	}
@@ -68,12 +77,16 @@ public class Board_RestApiController {
 			
 			if(type.equals("C")) {
 				BoardRepository.InsertBoard(map);
-				result.put("code", "success");
+				result.put("state", "200");
+				result.put("message", "success");
 			}else if(type.equals("U")) {
 				
 			}else if(type.equals("D")) {
 				
 			}
+		}else {
+			result.put("state", "500");
+			result.put("message", "필수 값이 누락 되었습니다.");
 		}
 		
 		return result;
