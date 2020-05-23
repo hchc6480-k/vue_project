@@ -4,11 +4,13 @@ package com.example.demo.controller;
 
 
 import java.util.HashMap;
+
+
+
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -24,20 +26,18 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.demo.service.BoardService;
 
 
-
-
-
 @CrossOrigin(origins = {"http://localhost:8080", "https://localhost:8080" }) 
 @EnableAutoConfiguration
 @RestController
-public class Board_RestApiController {
+public class Board_RestApiController {	
 	
 	@Autowired
 	BoardService BoardRepository;
 	
-	@GetMapping(value="/api/test")
+	@GetMapping(value="/api/tests")
 	public @ResponseBody String test(HttpServletRequest req) {
-		System.out.println("토근값:"+req.getHeader("token"));
+		//Tests t = new Tests();		
+		//System.out.println("토근값:"+req.getHeader("token"));
 		return "테스트";
 	}
 	

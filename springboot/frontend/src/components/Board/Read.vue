@@ -113,7 +113,7 @@ export default {
             }, 
             {                                
                 headers: { 'Content-Type': 'application/json' }
-            }).then((Response) => {                                
+            }).then((Response) => {                                                
                 this.rows = Response.data.list;
                 this.total_count = Response.data.total_count 
                 this.now_page = parseInt(Response.data.now_page);                             
@@ -127,8 +127,8 @@ export default {
                 }                                
                 console.log(this.total_page+','+this.current_range+','+this.start_page+','+this.end_page);
             }).catch((ex)=>{
-              console.log(ex);
-
+              alert('에러발생');
+              console.log(ex);              
             })         
         },
         

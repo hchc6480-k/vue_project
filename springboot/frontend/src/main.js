@@ -10,7 +10,7 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 import axios from 'axios'
 import { store } from './store/store.js'
 
-axios.defaults.headers.common['access_token'] = 'a'
+axios.defaults.headers.common['access_token'] = 'b'
 
 Vue.prototype.$http = axios
 Vue.config.productionTip = false
