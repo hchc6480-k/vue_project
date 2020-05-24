@@ -24,7 +24,7 @@ public class WebInterCeptor extends HandlerInterceptorAdapter{
 			throws Exception {
 		String get_access_token = request.getHeader("access_token") !=null ? request.getHeader("access_token") : "";
 				
-		if(!access_token.equals(get_access_token)) return false;		
+		//if(!access_token.equals(get_access_token)) return false;		
 		return super.preHandle(request, response, handler);
 	}
 			

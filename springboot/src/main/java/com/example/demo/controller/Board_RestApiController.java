@@ -37,7 +37,7 @@ public class Board_RestApiController {
 	@GetMapping(value="/api/tests")
 	public @ResponseBody String test(HttpServletRequest req) {
 		//Tests t = new Tests();		
-		//System.out.println("토근값:"+req.getHeader("token"));
+		System.out.println("토근값:"+req.getHeader("token"));
 		return "테스트";
 	}
 	
