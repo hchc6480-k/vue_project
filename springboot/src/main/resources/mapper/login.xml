@@ -7,16 +7,16 @@
 <mapper namespace="com.example.demo.dao.LoginDao">
 
 	<insert id="RegistUsr" parameterType="map">
-	insert into mb_mbr_mgmt(user_id,pwd,mbr_nm,mbr_token,reg_dtime) values(#{user_id},#{pwd},#{mbr_nm},#{mbr_token},now())
+		INSERT INTO MB_MBR_MGMT(user_id,pwd,mbr_nm,mbr_token,reg_dtime) VALUES(#{user_id},#{pwd},#{mbr_nm},#{mbr_token},now())
 	</insert>
  
 	
 	<select id="SelectUsr" resultType="map">
         SELECT user_id,mbr_nm,mbr_token
-        FROM mb_mbr_mgmt
+        FROM MB_MBR_MGMT
         WHERE
-        <if test="user_id!=null and pwd != null">
-        	user_id = #{user_id} and pwd = #{pwd}
+        <if test="user_id !=null and pwd != null">
+        	user_id = #{user_id} AND PWD = #{pwd}
         </if>
         <if test="access_token">
         	mbr_token = #{access_token}

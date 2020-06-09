@@ -88,7 +88,7 @@ export default {
                 alert('가입동의가 필요합니다.');
                 return false;
             }
-            axios.post('http://localhost:5000/usr/registMbr',null,{
+            axios.post('http://127.0.0.1:5000/usr/registMbr',null,{
                params:{                
                 user_id:this.user_id,
                 pwd:this.pwd,
@@ -102,7 +102,7 @@ export default {
                     console.log(res.data);             
                     //this.$store.commit('loginToken',res.data);
                     alert('회원가입 완료!');
-                    this.$router.push({path:'/'});
+                    this.$router.push({path:'/read/1'});
                 }else{
                     console.log(res.data);
                     alert('에러발생');

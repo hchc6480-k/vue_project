@@ -11,13 +11,13 @@
  	</select>
  	
     <select id="SelectBoard" resultType="java.util.LinkedHashMap" parameterType="int">
-        SELECT board_no,board_nm,board_detail,user_id,date_format(reg_dtime, '%Y-%m-%d') as date        		
+        SELECT board_no,board_nm,board_detail,user_id,DATE_FORMAT(reg_dtime, '%Y-%m-%d') AS date        		
         FROM BOARD
         LIMIT #{page_idx},2        	
     </select>
     
     <insert id="InsertBoard">
-		INSERT INTO board(board_nm,board_detail,user_id,reg_dtime) VALUES(#{board_nm},#{board_detail},#{user_id},now())
+		INSERT INTO BOARD(board_nm,board_detail,user_id,reg_dtime) VALUES(#{board_nm},#{board_detail},#{user_id},now())
     </insert>
  
 </mapper>

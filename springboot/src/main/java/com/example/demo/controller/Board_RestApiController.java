@@ -7,12 +7,14 @@ import java.util.HashMap;
 
 
 
+
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
 import javax.servlet.http.HttpServletRequest;
 
+import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
@@ -23,21 +25,22 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.demo.service.BoardService;
+import com.example.demo.dao.BoardDao;
 
 
-@CrossOrigin(origins = {"http://localhost:8080", "https://localhost:8080" }) 
+@CrossOrigin(origins = {"http://127.0.0.1:8080", "https://127.0.0.1:8080","http://localhost:8080" }) 
 @EnableAutoConfiguration
 @RestController
 public class Board_RestApiController {	
 	
 	@Autowired
-	BoardService BoardRepository;
+	BoardDao BoardDao;
 	
 	@GetMapping(value="/api/tests")
 	public @ResponseBody String test(HttpServletRequest req) {
 		//Tests t = new Tests();		
 		System.out.println("토근값:"+req.getHeader("token"));
+		boolean a = StringUtils.isBlank("a");		
 		return "테스트";
 	}
 	
@@ -52,9 +55,9 @@ public class Board_RestApiController {
 		if(page != null && !page.equals("0")) {			
 			page_idx = (Integer.parseInt(page)*2) -2;
 		}
-		List<LinkedHashMap<String,Object>> list =  BoardRepository.SelectBoard(page_idx);
+		List<LinkedHashMap<String,Object>> list =  BoardDao.SelectBoard(page_idx);
 		
-		result.put("total_count", BoardRepository.totalBoardCount());		
+		result.put("total_count", BoardDao.totalBoardCount());		
 		result.put("list", list);
 		return result;
 	}
@@ -76,7 +79,7 @@ public class Board_RestApiController {
 			map.put("user_id", user_id);
 			
 			if(type.equals("C")) {
-				BoardRepository.InsertBoard(map);
+				BoardDao.InsertBoard(map);
 				result.put("state", "200");
 				result.put("message", "success");
 			}else if(type.equals("U")) {

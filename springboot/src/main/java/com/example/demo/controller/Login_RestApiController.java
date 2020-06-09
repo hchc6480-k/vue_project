@@ -1,6 +1,6 @@
 package com.example.demo.controller;
 
-import java.security.Key;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -15,19 +15,18 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.dao.LoginDao;
-import com.example.demo.service.LoginService;
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 
 
-@CrossOrigin(origins = {"http://localhost:8080", "https://localhost:8080" }) 
+@CrossOrigin(origins = {"http://127.0.0.1:8080", "https://127.0.0.1:8080","http://localhost:8080" }) 
 @EnableAutoConfiguration
 @RestController
 public class Login_RestApiController {
 	
 	@Autowired
-	LoginService LoginRepository;
+	LoginDao LoginDao;
 
 	@PostMapping(value="/usr/registMbr")
 	public Map<String,Object>registMbr(
@@ -36,7 +35,7 @@ public class Login_RestApiController {
 			@RequestParam(value="mbr_nm") String mbr_nm) {
 		
 		Map<String,Object> result = new HashMap<String, Object>();
-				
+		
 		if(user_id != null && pwd !=null && mbr_nm != null) {
 			Map<String,Object> claims = new HashMap<String, Object>();				
 			String secretKey = "A";
@@ -56,10 +55,11 @@ public class Login_RestApiController {
 			data.put("mbr_token", jwt_token);
 			
 			try {
-				LoginRepository.RegistUsr(data);
+				LoginDao.RegistUsr(data);
 				result.put("state", "200");
 				result.put("message", "success");
-			} catch (Exception e) {
+			} catch (Exception e) {				
+				System.out.println(e.getMessage());
 				result.put("state", "500");
 				result.put("message", "fail");
 			}
@@ -85,14 +85,14 @@ public class Login_RestApiController {
 			map.put("user_id", user_id);
 			map.put("pwd", pwd);
 			
-			Map<String,Object> data = LoginRepository.SelectUsr(map);
+			Map<String,Object> data = LoginDao.SelectUsr(map);
 			
 			if(data != null){
 				result.put("user_id",data.get("user_id"));
 				result.put("mbr_nm",data.get("mbr_nm"));
 				result.put("token", data.get("mbr_token"));
 				result.put("state", "200");
-				result.put("message", "success");
+				result.put("message", "success");				
 			}else {
 				result.put("state", "500");
 				result.put("message", "fail");
@@ -102,9 +102,7 @@ public class Login_RestApiController {
 			result.put("state", "500");
 			result.put("message", "필수 값이 누락 되었습니다.");
 		}
-		
-		System.out.println(result);
-		
+					
 		return result;
 	}
 	
@@ -120,7 +118,7 @@ public class Login_RestApiController {
 			Map<String,Object> map = new HashMap<String, Object>();
 			map.put("access_token", access_token);
 						
-			Map<String,Object> data = LoginRepository.SelectUsr(map);
+			Map<String,Object> data = LoginDao.SelectUsr(map);
 			
 			if(data != null){
 				result.put("mbr_nm",data.get("mbr_nm"));
