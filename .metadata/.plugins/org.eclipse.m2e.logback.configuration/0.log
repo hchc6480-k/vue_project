@@ -11248,3 +11248,369 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.co
 2020-06-10 00:36:29,474 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
 2020-06-10 00:36:29,475 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-06-10 00:36:29,475 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 14:46:19,342 [Worker-254: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springboot:0.0.1-SNAPSHOT @ /Users/kang/vue_project/springboot/pom.xml.
+2020-06-21 14:46:20,683 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/2.2.2.RELEASE/spring-boot-starter-mail-2.2.2.RELEASE.pom
+2020-06-21 14:46:20,999 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/2.2.2.RELEASE/spring-boot-starter-mail-2.2.2.RELEASE.pom
+2020-06-21 14:46:21,146 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.2.2.RELEASE/spring-context-support-5.2.2.RELEASE.pom
+2020-06-21 14:46:21,296 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.2.2.RELEASE/spring-context-support-5.2.2.RELEASE.pom
+2020-06-21 14:46:21,441 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/mail/jakarta.mail/1.6.4/jakarta.mail-1.6.4.pom
+2020-06-21 14:46:21,594 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/mail/jakarta.mail/1.6.4/jakarta.mail-1.6.4.pom
+2020-06-21 14:46:21,741 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/mail/all/1.6.4/all-1.6.4.pom
+2020-06-21 14:46:22,026 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/mail/all/1.6.4/all-1.6.4.pom
+2020-06-21 14:46:22,170 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/ee4j/project/1.0.4/project-1.0.4.pom
+2020-06-21 14:46:22,323 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/ee4j/project/1.0.4/project-1.0.4.pom
+2020-06-21 14:46:22,472 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/jakarta.activation/1.2.1/jakarta.activation-1.2.1.pom
+2020-06-21 14:46:22,627 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/jakarta.activation/1.2.1/jakarta.activation-1.2.1.pom
+2020-06-21 14:46:22,801 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/2.2.2.RELEASE/spring-boot-starter-mail-2.2.2.RELEASE.jar
+2020-06-21 14:46:22,959 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/2.2.2.RELEASE/spring-boot-starter-mail-2.2.2.RELEASE.jar
+2020-06-21 14:46:23,101 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.2.2.RELEASE/spring-context-support-5.2.2.RELEASE.jar
+2020-06-21 14:46:23,713 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.2.2.RELEASE/spring-context-support-5.2.2.RELEASE.jar
+2020-06-21 14:46:23,875 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/mail/jakarta.mail/1.6.4/jakarta.mail-1.6.4.jar
+2020-06-21 14:46:24,969 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/mail/jakarta.mail/1.6.4/jakarta.mail-1.6.4.jar
+2020-06-21 14:46:25,114 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/jakarta.activation/1.2.1/jakarta.activation-1.2.1.jar
+2020-06-21 14:46:25,316 [Worker-254: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/jakarta.activation/1.2.1/jakarta.activation-1.2.1.jar
+2020-06-21 14:46:25,556 [Worker-254: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:46:25,558 [Worker-254: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 14:46:25,558 [Worker-254: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 14:46:25,559 [Worker-254: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:46:25,560 [Worker-254: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 14:50:00,798 [Worker-329: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/2.2.2.RELEASE/spring-boot-starter-mail-2.2.2.RELEASE-sources.jar
+2020-06-21 14:50:00,940 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:50:00,941 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 14:50:00,951 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 14:50:00,962 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:50:00,962 [Worker-331: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 14:50:01,145 [Worker-329: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/2.2.2.RELEASE/spring-boot-starter-mail-2.2.2.RELEASE-sources.jar
+2020-06-21 14:50:01,156 [Worker-329: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-mail:2.2.2.RELEASE
+2020-06-21 14:50:01,789 [Worker-329: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.2.2.RELEASE/spring-context-support-5.2.2.RELEASE-sources.jar
+2020-06-21 14:50:02,408 [Worker-329: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/5.2.2.RELEASE/spring-context-support-5.2.2.RELEASE-sources.jar
+2020-06-21 14:50:02,416 [Worker-329: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context-support:5.2.2.RELEASE
+2020-06-21 14:50:03,038 [Worker-329: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/mail/jakarta.mail/1.6.4/jakarta.mail-1.6.4-sources.jar
+2020-06-21 14:50:04,070 [Worker-329: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/mail/jakarta.mail/1.6.4/jakarta.mail-1.6.4-sources.jar
+2020-06-21 14:50:04,079 [Worker-329: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.mail:jakarta.mail:1.6.4
+2020-06-21 14:50:04,599 [Worker-329: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/jakarta.activation/1.2.1/jakarta.activation-1.2.1-sources.jar
+2020-06-21 14:50:05,074 [Worker-329: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/jakarta.activation/1.2.1/jakarta.activation-1.2.1-sources.jar
+2020-06-21 14:50:05,083 [Worker-329: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.activation:jakarta.activation:1.2.1
+2020-06-21 14:54:51,623 [Worker-430: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:54:51,625 [Worker-430: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 14:54:51,627 [Worker-430: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 14:54:51,628 [Worker-430: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:54:51,628 [Worker-430: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 14:55:32,172 [Worker-502: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:55:32,173 [Worker-502: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 14:55:32,176 [Worker-502: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 14:55:32,179 [Worker-502: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:55:32,179 [Worker-502: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 14:56:05,611 [Worker-630: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springboot:0.0.1-SNAPSHOT @ /Users/kang/vue_project/springboot/pom.xml.
+2020-06-21 14:56:06,744 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/1.4.3.RELEASE/spring-boot-starter-mail-1.4.3.RELEASE.pom
+2020-06-21 14:56:07,084 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/1.4.3.RELEASE/spring-boot-starter-mail-1.4.3.RELEASE.pom
+2020-06-21 14:56:07,235 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starters/1.4.3.RELEASE/spring-boot-starters-1.4.3.RELEASE.pom
+2020-06-21 14:56:07,391 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starters/1.4.3.RELEASE/spring-boot-starters-1.4.3.RELEASE.pom
+2020-06-21 14:56:07,544 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-parent/1.4.3.RELEASE/spring-boot-parent-1.4.3.RELEASE.pom
+2020-06-21 14:56:07,859 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-parent/1.4.3.RELEASE/spring-boot-parent-1.4.3.RELEASE.pom
+2020-06-21 14:56:08,011 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.4.3.RELEASE/spring-boot-dependencies-1.4.3.RELEASE.pom
+2020-06-21 14:56:08,373 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.4.3.RELEASE/spring-boot-dependencies-1.4.3.RELEASE.pom
+2020-06-21 14:56:08,529 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.5.RELEASE/spring-framework-bom-4.3.5.RELEASE.pom
+2020-06-21 14:56:08,684 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.5.RELEASE/spring-framework-bom-4.3.5.RELEASE.pom
+2020-06-21 14:56:08,835 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Hopper-SR6/spring-data-releasetrain-Hopper-SR6.pom
+2020-06-21 14:56:08,999 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Hopper-SR6/spring-data-releasetrain-Hopper-SR6.pom
+2020-06-21 14:56:09,149 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/1.8.6.RELEASE/spring-data-build-1.8.6.RELEASE.pom
+2020-06-21 14:56:09,312 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/1.8.6.RELEASE/spring-data-build-1.8.6.RELEASE.pom
+2020-06-21 14:56:09,466 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/4.3.6.RELEASE/spring-integration-bom-4.3.6.RELEASE.pom
+2020-06-21 14:56:09,623 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/4.3.6.RELEASE/spring-integration-bom-4.3.6.RELEASE.pom
+2020-06-21 14:56:09,776 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.5.6/javax.mail-1.5.6.pom
+2020-06-21 14:56:09,944 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.5.6/javax.mail-1.5.6.pom
+2020-06-21 14:56:10,100 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/mail/all/1.5.6/all-1.5.6.pom
+2020-06-21 14:56:10,274 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/mail/all/1.5.6/all-1.5.6.pom
+2020-06-21 14:56:10,425 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.pom
+2020-06-21 14:56:10,584 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.pom
+2020-06-21 14:56:10,748 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/1.4.3.RELEASE/spring-boot-starter-mail-1.4.3.RELEASE.jar
+2020-06-21 14:56:10,908 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/1.4.3.RELEASE/spring-boot-starter-mail-1.4.3.RELEASE.jar
+2020-06-21 14:56:11,061 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.5.6/javax.mail-1.5.6.jar
+2020-06-21 14:56:11,711 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.5.6/javax.mail-1.5.6.jar
+2020-06-21 14:56:11,861 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.jar
+2020-06-21 14:56:12,020 [Worker-630: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.jar
+2020-06-21 14:56:12,102 [Worker-630: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springboot:0.0.1-SNAPSHOT @ /Users/kang/vue_project/springboot/pom.xml.
+2020-06-21 14:56:12,221 [Worker-630: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:56:12,223 [Worker-630: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 14:56:12,223 [Worker-630: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 14:56:12,224 [Worker-630: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:56:12,224 [Worker-630: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 14:56:26,168 [Worker-695: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/1.4.3.RELEASE/spring-boot-starter-mail-1.4.3.RELEASE-sources.jar
+2020-06-21 14:56:26,225 [Worker-696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:56:26,226 [Worker-696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 14:56:26,234 [Worker-696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 14:56:26,243 [Worker-696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:56:26,244 [Worker-696: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 14:56:26,495 [Worker-695: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/1.4.3.RELEASE/spring-boot-starter-mail-1.4.3.RELEASE-sources.jar
+2020-06-21 14:56:26,518 [Worker-695: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-mail:1.4.3.RELEASE
+2020-06-21 14:56:28,342 [Worker-695: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.5.6/javax.mail-1.5.6-sources.jar
+2020-06-21 14:56:31,193 [Worker-695: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.5.6/javax.mail-1.5.6-sources.jar
+2020-06-21 14:56:31,213 [Worker-695: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.mail:javax.mail:1.5.6
+2020-06-21 14:56:31,844 [Worker-695: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1-sources.jar
+2020-06-21 14:56:32,324 [Worker-695: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1-sources.jar
+2020-06-21 14:56:32,332 [Worker-695: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.activation:activation:1.1
+2020-06-21 14:56:32,785 [Worker-878: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:56:32,786 [Worker-878: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 14:56:32,786 [Worker-878: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 14:56:32,787 [Worker-878: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:56:32,787 [Worker-878: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 14:57:06,274 [Worker-932: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springboot:0.0.1-SNAPSHOT @ /Users/kang/vue_project/springboot/pom.xml.
+2020-06-21 14:57:06,522 [Worker-932: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:57:06,524 [Worker-932: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 14:57:06,524 [Worker-932: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 14:57:06,526 [Worker-932: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:57:06,526 [Worker-932: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 14:57:16,374 [Worker-987: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:57:16,375 [Worker-987: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 14:57:16,386 [Worker-987: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 14:57:16,396 [Worker-987: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:57:16,396 [Worker-987: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 14:58:32,656 [Worker-1111: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springboot:0.0.1-SNAPSHOT @ /Users/kang/vue_project/springboot/pom.xml.
+2020-06-21 14:58:33,951 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/2.3.1.RELEASE/spring-boot-starter-mail-2.3.1.RELEASE.pom
+2020-06-21 14:58:34,395 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/2.3.1.RELEASE/spring-boot-starter-mail-2.3.1.RELEASE.pom
+2020-06-21 14:58:34,596 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.3.1.RELEASE/spring-boot-dependencies-2.3.1.RELEASE.pom
+2020-06-21 14:58:35,587 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.3.1.RELEASE/spring-boot-dependencies-2.3.1.RELEASE.pom
+2020-06-21 14:58:35,807 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.1.9/metrics-bom-4.1.9.pom
+2020-06-21 14:58:36,002 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.1.9/metrics-bom-4.1.9.pom
+2020-06-21 14:58:36,210 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.29.v20200521/jetty-bom-9.4.29.v20200521.pom
+2020-06-21 14:58:36,407 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.29.v20200521/jetty-bom-9.4.29.v20200521.pom
+2020-06-21 14:58:36,602 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.3.7/kotlinx-coroutines-bom-1.3.7.pom
+2020-06-21 14:58:36,798 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.3.7/kotlinx-coroutines-bom-1.3.7.pom
+2020-06-21 14:58:36,999 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.50.Final/netty-bom-4.1.50.Final.pom
+2020-06-21 14:58:37,204 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.50.Final/netty-bom-4.1.50.Final.pom
+2020-06-21 14:58:37,408 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/r2dbc/r2dbc-bom/Arabba-SR4/r2dbc-bom-Arabba-SR4.pom
+2020-06-21 14:58:37,606 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/r2dbc/r2dbc-bom/Arabba-SR4/r2dbc-bom-Arabba-SR4.pom
+2020-06-21 14:58:37,806 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/Dysprosium-SR8/reactor-bom-Dysprosium-SR8.pom
+2020-06-21 14:58:38,003 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/Dysprosium-SR8/reactor-bom-Dysprosium-SR8.pom
+2020-06-21 14:58:38,201 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/rsocket/rsocket-bom/1.0.1/rsocket-bom-1.0.1.pom
+2020-06-21 14:58:38,401 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/rsocket/rsocket-bom/1.0.1/rsocket-bom-1.0.1.pom
+2020-06-21 14:58:38,600 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/2.3.1.RELEASE/spring-data-build-2.3.1.RELEASE.pom
+2020-06-21 14:58:38,810 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/2.3.1.RELEASE/spring-data-build-2.3.1.RELEASE.pom
+2020-06-21 14:58:39,019 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.2.7.RELEASE/spring-framework-bom-5.2.7.RELEASE.pom
+2020-06-21 14:58:39,220 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.2.7.RELEASE/spring-framework-bom-5.2.7.RELEASE.pom
+2020-06-21 14:58:39,819 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.3.1.RELEASE/spring-integration-bom-5.3.1.RELEASE.pom
+2020-06-21 14:58:40,019 [Worker-1111: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.3.1.RELEASE/spring-integration-bom-5.3.1.RELEASE.pom
+2020-06-21 14:58:40,089 [Worker-1111: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springboot:0.0.1-SNAPSHOT @ /Users/kang/vue_project/springboot/pom.xml.
+2020-06-21 14:58:40,181 [Worker-1111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:58:40,182 [Worker-1111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 14:58:40,182 [Worker-1111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 14:58:40,183 [Worker-1111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:58:40,184 [Worker-1111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 14:58:42,564 [Worker-1187: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springboot:0.0.1-SNAPSHOT @ /Users/kang/vue_project/springboot/pom.xml.
+2020-06-21 14:58:42,935 [Worker-1187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:58:42,938 [Worker-1187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 14:58:42,946 [Worker-1187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 14:58:42,948 [Worker-1187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:58:42,948 [Worker-1187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 14:59:05,179 [Worker-1265: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/2.3.1.RELEASE/spring-boot-starter-mail-2.3.1.RELEASE-sources.jar
+2020-06-21 14:59:05,508 [Worker-1265: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/2.3.1.RELEASE/spring-boot-starter-mail-2.3.1.RELEASE-sources.jar
+2020-06-21 14:59:05,517 [Worker-1265: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-mail:2.3.1.RELEASE
+2020-06-21 14:59:05,519 [Worker-1265: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-mail:2.3.1.RELEASE
+2020-06-21 14:59:05,787 [Worker-1265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:59:05,787 [Worker-1265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 14:59:05,787 [Worker-1265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 14:59:05,788 [Worker-1265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:59:05,788 [Worker-1265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 14:59:12,706 [Worker-1337: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springboot:0.0.1-SNAPSHOT @ /Users/kang/vue_project/springboot/pom.xml.
+2020-06-21 14:59:13,424 [Worker-1337: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.0.7.RELEASE/spring-integration-bom-5.0.7.RELEASE.pom
+2020-06-21 14:59:13,754 [Worker-1337: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.0.7.RELEASE/spring-integration-bom-5.0.7.RELEASE.pom
+2020-06-21 14:59:14,409 [Worker-1337: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.6.1/javax.mail-1.6.1.pom
+2020-06-21 14:59:15,107 [Worker-1337: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.6.1/javax.mail-1.6.1.pom
+2020-06-21 14:59:15,268 [Worker-1337: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/mail/all/1.6.1/all-1.6.1.pom
+2020-06-21 14:59:15,574 [Worker-1337: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/mail/all/1.6.1/all-1.6.1.pom
+2020-06-21 14:59:15,738 [Worker-1337: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/2.0.4.RELEASE/spring-boot-starter-mail-2.0.4.RELEASE.jar
+2020-06-21 14:59:15,882 [Worker-1337: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/2.0.4.RELEASE/spring-boot-starter-mail-2.0.4.RELEASE.jar
+2020-06-21 14:59:16,026 [Worker-1337: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.6.1/javax.mail-1.6.1.jar
+2020-06-21 14:59:16,803 [Worker-1337: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.6.1/javax.mail-1.6.1.jar
+2020-06-21 14:59:16,866 [Worker-1337: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springboot:0.0.1-SNAPSHOT @ /Users/kang/vue_project/springboot/pom.xml.
+2020-06-21 14:59:16,958 [Worker-1337: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:59:16,960 [Worker-1337: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 14:59:16,965 [Worker-1337: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 14:59:16,967 [Worker-1337: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:59:16,967 [Worker-1337: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 14:59:21,889 [Worker-1416: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springboot:0.0.1-SNAPSHOT @ /Users/kang/vue_project/springboot/pom.xml.
+2020-06-21 14:59:22,256 [Worker-1416: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:59:22,258 [Worker-1416: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 14:59:22,266 [Worker-1416: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 14:59:22,276 [Worker-1416: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:59:22,276 [Worker-1416: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 14:59:23,467 [Worker-1458: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/2.0.4.RELEASE/spring-boot-starter-mail-2.0.4.RELEASE-sources.jar
+2020-06-21 14:59:23,904 [Worker-1458: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-mail/2.0.4.RELEASE/spring-boot-starter-mail-2.0.4.RELEASE-sources.jar
+2020-06-21 14:59:23,919 [Worker-1458: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-mail:2.0.4.RELEASE
+2020-06-21 14:59:24,533 [Worker-1458: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.6.1/javax.mail-1.6.1-sources.jar
+2020-06-21 14:59:26,205 [Worker-1537: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:59:26,206 [Worker-1537: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 14:59:26,208 [Worker-1537: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 14:59:26,209 [Worker-1537: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:59:26,209 [Worker-1537: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 14:59:26,370 [Worker-1458: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.6.1/javax.mail-1.6.1-sources.jar
+2020-06-21 14:59:26,379 [Worker-1458: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.mail:javax.mail:1.6.1
+2020-06-21 14:59:26,382 [Worker-1458: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-mail:2.0.4.RELEASE
+2020-06-21 14:59:26,384 [Worker-1458: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.mail:javax.mail:1.6.1
+2020-06-21 14:59:27,323 [Worker-1566: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:59:27,323 [Worker-1566: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 14:59:27,323 [Worker-1566: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 14:59:27,324 [Worker-1566: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:59:27,325 [Worker-1566: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 14:59:34,177 [Worker-1603: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:59:34,178 [Worker-1603: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 14:59:34,179 [Worker-1603: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 14:59:34,180 [Worker-1603: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:59:34,180 [Worker-1603: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 14:59:45,758 [Worker-1632: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-06-21 14:59:47,681 [Worker-1632: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springboot:0.0.1-SNAPSHOT @ /Users/kang/vue_project/springboot/pom.xml.
+2020-06-21 14:59:48,038 [Worker-1632: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot/src/main/java
+2020-06-21 14:59:48,038 [Worker-1632: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot/src/main/resources
+2020-06-21 14:59:48,038 [Worker-1632: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot/src/main/resources
+2020-06-21 14:59:48,038 [Worker-1632: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot/src/test/java
+2020-06-21 14:59:48,764 [Worker-1632: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2020-06-21 14:59:50,269 [Worker-1729: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:59:50,270 [Worker-1729: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 14:59:50,277 [Worker-1729: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 14:59:50,288 [Worker-1729: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 14:59:50,288 [Worker-1729: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:00:07,606 [Worker-1919: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springboot:0.0.1-SNAPSHOT @ /Users/kang/vue_project/springboot/pom.xml.
+2020-06-21 15:00:07,776 [Worker-1919: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:00:07,778 [Worker-1919: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 15:00:07,778 [Worker-1919: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 15:00:07,779 [Worker-1919: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:00:07,779 [Worker-1919: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:00:10,522 [Worker-1974: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:00:10,523 [Worker-1974: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:00:10,531 [Worker-1974: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 15:00:10,532 [Worker-1974: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:00:10,533 [Worker-1974: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:00:14,093 [Worker-2073: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:00:14,095 [Worker-2073: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:00:14,097 [Worker-2073: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 15:00:14,098 [Worker-2073: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:00:14,098 [Worker-2073: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:10:40,471 [Worker-2562: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:10:40,473 [Worker-2562: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:10:40,474 [Worker-2562: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 15:10:40,475 [Worker-2562: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:10:40,475 [Worker-2562: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:11:03,449 [Worker-2788: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:11:03,450 [Worker-2788: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:11:03,451 [Worker-2788: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 15:11:03,452 [Worker-2788: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:11:03,452 [Worker-2788: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:12:09,197 [Worker-2853: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:12:09,198 [Worker-2853: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:12:09,199 [Worker-2853: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 15:12:09,200 [Worker-2853: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:12:09,200 [Worker-2853: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:13:12,860 [Worker-3154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:13:12,861 [Worker-3154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:13:12,862 [Worker-3154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 15:13:12,863 [Worker-3154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:13:12,863 [Worker-3154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:13:45,229 [Worker-3206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:13:45,230 [Worker-3206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:13:45,231 [Worker-3206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 15:13:45,232 [Worker-3206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:13:45,232 [Worker-3206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:15:26,810 [Worker-3313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:15:26,811 [Worker-3313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:15:26,812 [Worker-3313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 15:15:26,814 [Worker-3313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:15:26,814 [Worker-3313: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:15:29,830 [Worker-3418: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:15:29,831 [Worker-3418: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:15:29,832 [Worker-3418: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 15:15:29,833 [Worker-3418: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:15:29,833 [Worker-3418: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:16:51,710 [Worker-3535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:16:51,710 [Worker-3535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:16:51,711 [Worker-3535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 15:16:51,712 [Worker-3535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:16:51,712 [Worker-3535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:16:52,856 [Worker-3582: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:16:52,857 [Worker-3582: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:16:52,858 [Worker-3582: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 15:16:52,859 [Worker-3582: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:16:52,860 [Worker-3582: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:17:33,369 [Worker-3750: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:17:33,370 [Worker-3750: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:17:33,371 [Worker-3750: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 15:17:33,372 [Worker-3750: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:17:33,372 [Worker-3750: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:17:36,246 [Worker-3796: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:17:36,247 [Worker-3796: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:17:36,248 [Worker-3796: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 15:17:36,252 [Worker-3796: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:17:36,252 [Worker-3796: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:25:54,641 [Worker-3961: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:25:54,642 [Worker-3961: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:25:54,642 [Worker-3961: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 15:25:54,643 [Worker-3961: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:25:54,643 [Worker-3961: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:26:13,332 [Worker-3997: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:26:13,333 [Worker-3997: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:26:13,333 [Worker-3997: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 15:26:13,335 [Worker-3997: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:26:13,335 [Worker-3997: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:29:34,576 [Worker-4212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:29:34,579 [Worker-4212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:29:34,580 [Worker-4212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 15:29:34,582 [Worker-4212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:29:34,582 [Worker-4212: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:29:38,846 [Worker-4290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:29:38,848 [Worker-4290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:29:38,851 [Worker-4290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 15:29:38,855 [Worker-4290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:29:38,856 [Worker-4290: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:33:33,900 [Worker-4402: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:33:33,901 [Worker-4402: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:33:33,903 [Worker-4402: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 15:33:33,906 [Worker-4402: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:33:33,906 [Worker-4402: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:33:38,795 [Worker-4475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:33:38,796 [Worker-4475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:33:38,797 [Worker-4475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 15:33:38,798 [Worker-4475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:33:38,798 [Worker-4475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:34:24,181 [Worker-4544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:34:24,182 [Worker-4544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:34:24,183 [Worker-4544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 15:34:24,184 [Worker-4544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:34:24,184 [Worker-4544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:47:46,051 [Worker-4784: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:47:46,052 [Worker-4784: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:47:46,053 [Worker-4784: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 15:47:46,055 [Worker-4784: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:47:46,055 [Worker-4784: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:51:57,524 [Worker-5054: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:51:57,524 [Worker-5054: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:51:57,525 [Worker-5054: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 15:51:57,526 [Worker-5054: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:51:57,526 [Worker-5054: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:52:02,496 [Worker-5107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:52:02,497 [Worker-5107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:52:02,499 [Worker-5107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-06-21 15:52:02,502 [Worker-5107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:52:02,502 [Worker-5107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 15:55:26,626 [Worker-5210: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:55:26,627 [Worker-5210: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 15:55:26,627 [Worker-5210: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 15:55:26,628 [Worker-5210: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 15:55:26,628 [Worker-5210: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 16:46:32,038 [Worker-5364: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 16:46:32,039 [Worker-5364: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 16:46:32,040 [Worker-5364: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 16:46:32,042 [Worker-5364: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 16:46:32,042 [Worker-5364: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-21 16:47:14,941 [Worker-5458: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 16:47:14,942 [Worker-5458: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-21 16:47:14,943 [Worker-5458: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-21 16:47:14,945 [Worker-5458: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-21 16:47:14,945 [Worker-5458: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources
+2020-06-26 00:05:16,668 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-28 14:34:10,521 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-09 00:23:44,375 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-09 00:23:56,934 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-09 00:23:56,939 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-09 00:23:56,954 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-08-09 00:23:56,976 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-09 00:23:56,977 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kang/vue_project/springboot/src/test/resources

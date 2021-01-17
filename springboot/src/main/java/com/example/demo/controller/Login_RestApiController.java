@@ -53,7 +53,7 @@ public class Login_RestApiController {
 			data.put("pwd", pwd);
 			data.put("mbr_nm", mbr_nm);
 			data.put("mbr_token", jwt_token);
-			
+			System.out.println(data);
 			try {
 				LoginDao.RegistUsr(data);
 				result.put("state", "200");
